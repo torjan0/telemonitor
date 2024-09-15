@@ -48,4 +48,4 @@ Replace the placeholders in the script with your api_id and api_hash.
 
 ## Disclaimer
 
-**This project was created for educational and statistical purposes. It is designed to showcase how to utilize the Telethon API to monitor user activity on Telegram. It should not be used for unauthorized tracking or monitoring. Always ensure you are complying with the laws and terms of service when using such tools. The authors take no responsibility for misuse or legal consequences resulting from the improper use of this script.**
+This project was created for educational and statistical purposes. It is designed to showcase how to utilize the Telethon API to monitor user activity on Telegram. It should not be used for unauthorized tracking or monitoring. Always ensure you are complying with the laws and terms of service when using such tools. The authors take no responsibility for misuse or legal consequences resulting from the improper use of this script.
