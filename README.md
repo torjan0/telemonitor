@@ -26,3 +26,19 @@ This Python project uses the [Telethon](https://github.com/LonamiWebs/Telethon) 
 1. **Install Requirements**:
    ```bash
    pip install telethon
+
+### Step 2: Configure API Credentials
+
+*Get your API credentials here: https://my.telegram.org/auth*
+
+    Replace the placeholders in the script with your api_id and api_hash.
+
+## Step 3: Run the Script
+
+    python3 telemonitor.py
+
+## Example Log Output
+
+      2023-09-14 14:23:00 - @xyz is online.
+      2023-09-14 12:45:00 - @xyz was last seen at 2023-09-14 12:40 PM.
+
