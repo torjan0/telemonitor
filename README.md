@@ -33,7 +33,7 @@ This Python project uses the [Telethon](https://github.com/LonamiWebs/Telethon) 
 
     Replace the placeholders in the script with your api_id and api_hash.
 
-## Step 3: Run the Script
+### Step 3: Run the Script
 
     python3 telemonitor.py
 
@@ -42,3 +42,7 @@ This Python project uses the [Telethon](https://github.com/LonamiWebs/Telethon) 
       2023-09-14 14:23:00 - @xyz is online.
       2023-09-14 12:45:00 - @xyz was last seen at 2023-09-14 12:40 PM.
 
+
+## Disclaimer
+
+      This project was created for educational and statistical purposes. It is designed to showcase how to utilize the Telethon API to monitor user activity on Telegram. It should not be used for unauthorized tracking or monitoring. Always ensure you are complying with the laws and terms of service when using such tools. The authors take no responsibility for misuse or legal consequences resulting from the improper use of this script.
